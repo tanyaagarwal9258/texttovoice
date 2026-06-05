@@ -1,5 +1,4 @@
-# 🎙️ Text To Speech Converter
-
+# 🎙️ Text To Speech Convert
 A simple and interactive Text To Speech Converter built using HTML, CSS, and JavaScript. This application converts written text into spoken words using the browser's Speech Synthesis API.
 
 ## ✨ Features
@@ -29,6 +28,5 @@ A simple and interactive Text To Speech Converter built using HTML, CSS, and Jav
 
 This project was created to practice JavaScript concepts, DOM manipulation, and working with the Web Speech API.
 
-## 📸 Preview
-
-Text To Speech Converter with voice selection and speech output functionality.
+## 📸Output
+<img width="1880" height="900" alt="text to voice screenshot" src="https://github.com/user-attachments/assets/9cee76cb-e1fe-418a-b9f9-8040c0065165" />
